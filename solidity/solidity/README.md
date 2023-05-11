@@ -1,3 +1,5 @@
+##We modified solidity to compile verification functions for group signatures and zero-knowledge proofs.
+
 # The Solidity Contract-Oriented Programming Language
 [![Join the chat at https://gitter.im/ethereum/solidity](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/solidity?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/ethereum/solidity.svg?branch=develop)](https://travis-ci.org/ethereum/solidity)
 Solidity is a statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
