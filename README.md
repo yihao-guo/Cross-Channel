@@ -1,0 +1,1 @@
+Cross-Channel: Scalable Off-Chain Channels Supporting Fair and Atomic Cross-Chain Operations
