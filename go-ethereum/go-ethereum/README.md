@@ -1,3 +1,5 @@
+## We modified ethereum to support verification of group signatures and zero-knowledge proofs.
+
 ## Go Ethereum
 
 Official Golang implementation of the Ethereum protocol.
